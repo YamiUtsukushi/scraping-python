@@ -18,9 +18,9 @@ Ce projet a pour but d’apprendre à faire du **web scraping** à partir de **f
 - `dev.html` : liste des formations en développement.
 - `cyber.html` : liste des formations en cybersécurité.
 - `data.html` : liste des formations en data science.
-- `scraper.py` : script Python principal à exécuter pour lancer le scraping.
+- `scraper_formations.py` : script Python principal à exécuter pour lancer le scraping.
 
-## Fonctionnement du script `scraper.py`
+## Fonctionnement du script `scraper_formations.py`
 
 Le script effectue les étapes suivantes :
 
@@ -60,7 +60,7 @@ pip install beautifulsoup4
 
 ## Conseils
 
-- Place tous les fichiers HTML et le script `scraper.py` dans le **même dossier**.
+- Place tous les fichiers HTML et le script `scraper_formations.py` dans le **même dossier**.
 - Le script lit les fichiers avec des chemins relatifs (`./`).
 
 ## Résultat

@@ -1,4 +1,4 @@
-# 🕸️ Exercice de Scraping – SkillMaster
+# 🕸️ Exercice de Scraping en python
 
 ## Objectif
 
